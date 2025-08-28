@@ -1,0 +1,5 @@
+---
+title: Foo
+---
+
+Classic, amiright?
