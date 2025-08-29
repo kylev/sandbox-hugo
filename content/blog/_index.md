@@ -1,4 +1,5 @@
 ---
 title: The Index
 ---
-hrm
+
+The blog index has an `_index.md`.
